@@ -1,0 +1,184 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63146AD3
+P 8150 2650
+F 0 "J?" H 8230 2692 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 2601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 2650 50  0001 C CNN
+F 3 "~" H 8150 2650 50  0001 C CNN
+	1    8150 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 631475B4
+P 6900 2650
+F 0 "J?" H 6980 2692 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 2601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 2650 50  0001 C CNN
+F 3 "~" H 6900 2650 50  0001 C CNN
+	1    6900 2650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 2650 7950 2650
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63148CF5
+P 8150 2900
+F 0 "J?" H 8230 2942 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 2851 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 2900 50  0001 C CNN
+F 3 "~" H 8150 2900 50  0001 C CNN
+	1    8150 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63148CFB
+P 6900 2900
+F 0 "J?" H 6980 2942 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 2851 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 2900 50  0001 C CNN
+F 3 "~" H 6900 2900 50  0001 C CNN
+	1    6900 2900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 2900 7950 2900
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63149469
+P 8150 3150
+F 0 "J?" H 8230 3192 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 3101 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 3150 50  0001 C CNN
+F 3 "~" H 8150 3150 50  0001 C CNN
+	1    8150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314946F
+P 6900 3150
+F 0 "J?" H 6980 3192 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 3101 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 3150 50  0001 C CNN
+F 3 "~" H 6900 3150 50  0001 C CNN
+	1    6900 3150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 3150 7950 3150
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63149B9F
+P 8150 3400
+F 0 "J?" H 8230 3442 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 3351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 3400 50  0001 C CNN
+F 3 "~" H 8150 3400 50  0001 C CNN
+	1    8150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 63149BA5
+P 6900 3400
+F 0 "J?" H 6980 3442 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 3351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 3400 50  0001 C CNN
+F 3 "~" H 6900 3400 50  0001 C CNN
+	1    6900 3400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 3400 7950 3400
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314B87F
+P 8150 3650
+F 0 "J?" H 8230 3692 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 3601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 3650 50  0001 C CNN
+F 3 "~" H 8150 3650 50  0001 C CNN
+	1    8150 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314B885
+P 6900 3650
+F 0 "J?" H 6980 3692 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 3601 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 3650 50  0001 C CNN
+F 3 "~" H 6900 3650 50  0001 C CNN
+	1    6900 3650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 3650 7950 3650
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314C1BC
+P 8150 3900
+F 0 "J?" H 8230 3942 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 3851 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 3900 50  0001 C CNN
+F 3 "~" H 8150 3900 50  0001 C CNN
+	1    8150 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314C1C2
+P 6900 3900
+F 0 "J?" H 6980 3942 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 3851 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 3900 50  0001 C CNN
+F 3 "~" H 6900 3900 50  0001 C CNN
+	1    6900 3900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 3900 7950 3900
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314CA96
+P 8150 4150
+F 0 "J?" H 8230 4192 50  0000 L CNN
+F 1 "Conn_01x01" H 8230 4101 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 8150 4150 50  0001 C CNN
+F 3 "~" H 8150 4150 50  0001 C CNN
+	1    8150 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J?
+U 1 1 6314CA9C
+P 6900 4150
+F 0 "J?" H 6980 4192 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 4101 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6900 4150 50  0001 C CNN
+F 3 "~" H 6900 4150 50  0001 C CNN
+	1    6900 4150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 4150 7950 4150
+$EndSCHEMATC
